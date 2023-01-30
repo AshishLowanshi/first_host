@@ -1,0 +1,16 @@
+.body{
+background-color: rgba(75, 72, 75, 0.189);
+}
+.navbar{
+    background-color: rgb(236, 138, 138);
+}
+.fa-list-alt{
+    padding: 13px;
+}
+.form-control{
+    width: 555px;
+    margin: 11px;
+}
+.btn-danger{
+    background-color: #087a08;
+}
